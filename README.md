@@ -1,7 +1,7 @@
 # TaniLipiFont
 The Tani languages are spoken by about 600,000 people of Arunachal Pradesh, including the Adi, Apatani, Galo, Mising, Nyishi, Tagin, and of the East Kameng, West Kameng, Papumpare, Lower Subansiri, Upper Subansiri, West Siang, East Siang, Upper Siang, Lower Dibang Valley and Lohit districts of Arunachal Pradesh
 # TaniLipi Font
-
+#Visit https://en.wikipedia.org/wiki/Tani_languages for more info about TaniLipi
 TaniLipi is a custom-designed font inspired by [provide brief context or inspiration]. This font is suitable for [mention use cases, e.g., branding, cultural projects, etc.].
 
 ## Getting Started
